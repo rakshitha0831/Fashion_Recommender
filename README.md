@@ -1,5 +1,12 @@
-
 # Fashion Search-to-Recommendation System
+
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![NLP](https://img.shields.io/badge/NLP-SentenceTransformers-green)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange)
+![Pandas](https://img.shields.io/badge/Pandas-Data--Analysis-yellow)
+![Visualization](https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn-purple)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ## Problem Statement
 
