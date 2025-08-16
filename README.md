@@ -124,3 +124,9 @@ This demonstrates that the model is capable of finding meaningful product sugges
 ## Summary
 
 This solution avoids relying on fixed ideas of what counts as fashion-related. Instead, it uses a language model to compare what the user is searching for with product descriptions in the catalog. The result is more relevant, adaptable, and insightful recommendations with room for future improvement.
+
+## Author
+
+**Rakshitha Kamarathi Venkatesh**
+📧 Email: [rakshitha0897@gmail.com](mailto:rakshitha0897@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/rakshitha-venkatesh-6824b7306/)
